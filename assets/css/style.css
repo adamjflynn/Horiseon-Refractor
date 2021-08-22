@@ -25,7 +25,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #ee0914;
+    color: #d9dcd6;
 }
 
 header nav {
@@ -86,11 +86,11 @@ main {
 /* SERVICE */
 
 .service {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -113,7 +113,7 @@ main {
     width: 20%;
     height: 100%;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #2a607c;
+    background-color: #2589bd;
 }
 
 .benefit {
